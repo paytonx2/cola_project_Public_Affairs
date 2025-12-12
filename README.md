@@ -1,5 +1,5 @@
 # cola_project_Public_Affairs
-โปรเจคนี้เป็นส่วนหนึ่งของรายวิชา CP413601
+โปรเจคนี้เป็นส่วนหนึ่งของรายวิชา CP413601 Application of Artificial Intelligence in Public Affair
 
 **ความเป็นมา**  
 
