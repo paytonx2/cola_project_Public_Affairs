@@ -59,5 +59,6 @@ cola_project_Public_Affairs
  - ระบุชัดเจนเรื่อง "การกระพริบตา" และ "การกำแบมือ" ในส่วน Scope
  - เน้นเรื่อง "Alternative Communication" (การสื่อสารทางเลือก) ในส่วนนโยบายครับ
 
-รายชื่อสมาชิกกลุ่ม
+### รายชื่อสมาชิกกลุ่ม
+
 <img width="372" height="108" alt="image" src="https://github.com/user-attachments/assets/cb0552d0-19b6-4b60-a11d-199e470a048c" />
